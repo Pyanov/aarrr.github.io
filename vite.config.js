@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/aarrr-3d-funnel/',
+  base: '/aarrr.github.io/',
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
